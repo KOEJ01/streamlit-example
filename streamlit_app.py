@@ -2,7 +2,7 @@ import yfinance as yf
 import datetime as dt
 
 # Set the stock symbol and the strike price
-symbol = 'AAPL'
+symbol = 'SPY'
 strike_price = 150
 
 # Set the start and end dates
